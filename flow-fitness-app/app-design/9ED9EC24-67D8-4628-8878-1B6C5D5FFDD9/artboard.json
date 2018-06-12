@@ -104,7 +104,7 @@
     }
   ],
   "name": "tab-bar/tips",
-  "nameIsFixed": true,
+  "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 812,
@@ -119,7 +119,6 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "D5DDB54A-377E-434B-A560-7E158DFAE8B1",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

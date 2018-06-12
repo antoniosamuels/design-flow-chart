@@ -4,7 +4,6 @@
   "do_objectID": "4A7E49FB-708C-4BF5-BFB6-91E4B2BCCAE3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A1C18E02-AF5B-4B73-814F-0D60B0E7FA8F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -123,7 +122,7 @@
                 "alpha": 1,
                 "blue": 0.9372549019607843,
                 "green": 0.6705882352941172,
-                "red": 0.04705882352941178
+                "red": 0.0470588235294118
               },
               "position": 1
             }

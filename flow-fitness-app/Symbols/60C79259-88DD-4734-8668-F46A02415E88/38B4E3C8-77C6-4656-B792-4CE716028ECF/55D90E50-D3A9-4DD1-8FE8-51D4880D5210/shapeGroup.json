@@ -4,7 +4,6 @@
   "do_objectID": "55D90E50-D3A9-4DD1-8FE8-51D4880D5210",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7200C81A-6784-436B-A24F-49ADB9F46E82",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -71,7 +70,7 @@
           "red": 0.3137254901960784
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

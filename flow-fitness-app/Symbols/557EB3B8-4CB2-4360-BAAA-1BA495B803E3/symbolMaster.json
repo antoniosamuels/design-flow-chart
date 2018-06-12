@@ -12,7 +12,6 @@
   "do_objectID": "557EB3B8-4CB2-4360-BAAA-1BA495B803E3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "293C8155-43CD-463D-B78E-25365227AF04",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,7 +45,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

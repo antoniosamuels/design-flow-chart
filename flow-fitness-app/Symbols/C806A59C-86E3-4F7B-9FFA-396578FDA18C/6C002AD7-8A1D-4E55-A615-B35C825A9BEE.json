@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.08413052721088435,
-            "green": 0.08413052721088435,
-            "red": 0.08413052721088435
+            "blue": 0.0841305272108844,
+            "green": 0.0841305272108844,
+            "red": 0.0841305272108844
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -39,7 +39,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "68BCE453-AEFE-448B-AEB9-A087648462A2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -82,9 +81,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.08413052721088435,
-          "green": 0.08413052721088435,
-          "red": 0.08413052721088435
+          "blue": 0.0841305272108844,
+          "green": 0.0841305272108844,
+          "red": 0.0841305272108844
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

@@ -6,9 +6,9 @@
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.08413052721088435,
-        "green": 0.08413052721088435,
-        "red": 0.08413052721088435
+        "blue": 0.0841305272108844,
+        "green": 0.0841305272108844,
+        "red": 0.0841305272108844
       },
       {
         "_class": "color",
@@ -63,7 +63,7 @@
         "_class": "color",
         "alpha": 1,
         "blue": 0.1362268007683968,
-        "green": 0.01719757061205161,
+        "green": 0.0171975706120516,
         "red": 0.6169217687074829
       },
       {
@@ -85,7 +85,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "6D2A3590-D692-4E08-850A-385D89CE0B6E",
+  "do_objectID": "63164C7B-F7A7-4608-BB63-4388DAC82C26",
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -108,6 +108,18 @@
     "Symbols"
   ],
   "userInfo": {
+    "com.abstractapp.sketchplugin.1685a5c9-5230-4d37-963c-5efa0f361065": {
+      "metadata": {
+        "baseSHA": "0d8dc16e0bece8826426d2c6b456ce256c7c4033",
+        "branchId": "master",
+        "branchName": "Master",
+        "fileId": "2F8B1642-FD06-4CC6-B345-7FCBB50E3C8A",
+        "fileTreeSHA": "6fe1278c6c3ccc18a69cc2544e6de43a0ecaf5cb",
+        "name": "flow-fitness-app",
+        "projectId": "fb63ea70-6e92-11e8-897c-c5647c3bf550",
+        "projectName": "Fitness app"
+      }
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }

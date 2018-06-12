@@ -281,6 +281,8 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "userInfo": {
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -378,

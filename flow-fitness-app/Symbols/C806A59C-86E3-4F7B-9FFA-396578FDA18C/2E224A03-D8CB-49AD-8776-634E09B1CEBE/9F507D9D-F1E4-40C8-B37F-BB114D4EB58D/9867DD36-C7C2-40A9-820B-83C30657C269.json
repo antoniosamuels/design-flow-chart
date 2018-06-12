@@ -4,7 +4,6 @@
   "do_objectID": "9867DD36-C7C2-40A9-820B-83C30657C269",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7C8F27ED-D667-4235-8436-FD7D21DC96F2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -221,9 +220,9 @@
         "color": {
           "_class": "color",
           "alpha": 0.6399999856948853,
-          "blue": 0.01583758503401361,
-          "green": 0.01583758503401361,
-          "red": 0.01583758503401361
+          "blue": 0.0158375850340136,
+          "green": 0.0158375850340136,
+          "red": 0.0158375850340136
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -273,9 +272,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.08413052721088435,
-          "green": 0.08413052721088435,
-          "red": 0.08413052721088435
+          "blue": 0.0841305272108844,
+          "green": 0.0841305272108844,
+          "red": 0.0841305272108844
         },
         "fillType": 0,
         "gradient": {

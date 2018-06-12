@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.02311862244897959,
-    "green": 0.02311862244897959,
-    "red": 0.02311862244897959
+    "blue": 0.0231186224489796,
+    "green": 0.0231186224489796,
+    "red": 0.0231186224489796
   },
   "do_objectID": "A99E6C90-3508-493C-9383-F8354F58D371",
   "exportOptions": {
@@ -94,7 +94,7 @@
     }
   ],
   "name": "landingpage/launch",
-  "nameIsFixed": true,
+  "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 812,

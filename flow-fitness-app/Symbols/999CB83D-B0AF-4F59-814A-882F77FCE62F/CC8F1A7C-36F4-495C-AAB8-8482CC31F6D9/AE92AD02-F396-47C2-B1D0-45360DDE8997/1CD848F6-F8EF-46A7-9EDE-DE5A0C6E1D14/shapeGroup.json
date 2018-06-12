@@ -4,7 +4,6 @@
   "do_objectID": "1CD848F6-F8EF-46A7-9EDE-DE5A0C6E1D14",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C1385756-3FC8-4B1A-A233-B1747E14F2CB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,7 +17,7 @@
     "do_objectID": "2DA21B44-DF57-4FC7-83D6-E2A32C1780AD",
     "height": 141.4,
     "width": 120.0999167360533,
-    "x": 1.818989403545856e-12,
+    "x": 1.819e-12,
     "y": 10.6
   },
   "hasClickThrough": false,

@@ -12,7 +12,6 @@
   "do_objectID": "EC66591A-99EC-41C8-88D5-72B4FDBCB7D8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B13BEC24-1458-42AF-84F8-768A776B7382",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,7 +45,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

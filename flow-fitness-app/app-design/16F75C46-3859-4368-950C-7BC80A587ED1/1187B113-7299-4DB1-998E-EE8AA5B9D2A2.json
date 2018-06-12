@@ -8,10 +8,10 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.2946939147936637,
-            "green": 0.2946939147936637,
-            "red": 0.7391847363945578
+            "alpha": 0.3,
+            "blue": 0.7098039215686275,
+            "green": 0.5058823529411767,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -40,7 +40,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9BB1EEFE-BC93-4A5D-906D-20CA35E621D2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -72,11 +71,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.4000000059604645
-    },
     "do_objectID": "BB0A50B6-BEA1-4851-BFAD-39B58B1C05DC",
     "endDecorationType": 0,
     "fills": [
@@ -105,10 +99,10 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.2946939147936637,
-          "green": 0.2946939147936637,
-          "red": 0.7391847363945578
+          "alpha": 0.3,
+          "blue": 0.7098039215686275,
+          "green": 0.5058823529411767,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

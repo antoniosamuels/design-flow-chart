@@ -39,7 +39,6 @@
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "55D434CA-2513-471B-A8D3-585803176C41",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -54,7 +53,7 @@
     "height": 18,
     "width": 58,
     "x": 266,
-    "y": 104
+    "y": 76
   },
   "glyphBounds": "{{0, 3}, {57, 14}}",
   "isFlippedHorizontal": false,

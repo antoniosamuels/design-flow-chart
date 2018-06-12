@@ -4,7 +4,6 @@
   "do_objectID": "EC130CE4-250D-4CC5-B186-7B3E67F3B9E6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F8509466-1094-4C88-A273-25DE76AF642F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -119,7 +118,7 @@
                 "alpha": 1,
                 "blue": 0.9372549019607843,
                 "green": 0.6705882352941172,
-                "red": 0.04705882352941178
+                "red": 0.0470588235294118
               },
               "position": 1
             }
