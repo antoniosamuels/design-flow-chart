@@ -103,8 +103,8 @@
     "version": 103
   },
   "pages": [
-    "flowchart",
     "app-design",
+    "flowchart",
     "Symbols"
   ],
   "userInfo": {
