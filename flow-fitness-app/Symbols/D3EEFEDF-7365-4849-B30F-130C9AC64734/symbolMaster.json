@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 297,
+  "do_objectID": "D3EEFEDF-7365-4849-B30F-130C9AC64734",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 391,
+    "x": 3230,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B8919B5B-B402-472D-AD8E-5094D17249C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F9FD5B9-7EDF-4F30-97C1-E32C23792BC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54B2322A-B487-4415-9F4E-C5F93A620334"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F33DB9B4-BFB0-4095-BD51-31453E877E68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E8230A1-BACE-49CE-83A9-9F0EC0F232E9"
+    },
+    {
+      "class": "text",
+      "id": "2E368ED3-D6D8-4F7E-B814-4E3B02C2F77C"
+    },
+    {
+      "class": "text",
+      "id": "ED2A14AF-28EA-4A28-A825-910CE3956618"
+    },
+    {
+      "class": "text",
+      "id": "6A9B89BD-7013-4596-BED6-A6C597F6BD4E"
+    },
+    {
+      "class": "text",
+      "id": "EE32E9B2-64FA-4709-AFFB-65103DD84A60"
+    },
+    {
+      "class": "text",
+      "id": "4FB841E8-5F0C-4ED8-BD0E-B7AF21B9A48A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB8977E3-C5CF-46C6-96B8-46AFC27CD3CC"
+    }
+  ],
+  "name": "footer/tab-bottom",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BD1369D2-8096-4AF2-951D-90A9C8D78D67",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

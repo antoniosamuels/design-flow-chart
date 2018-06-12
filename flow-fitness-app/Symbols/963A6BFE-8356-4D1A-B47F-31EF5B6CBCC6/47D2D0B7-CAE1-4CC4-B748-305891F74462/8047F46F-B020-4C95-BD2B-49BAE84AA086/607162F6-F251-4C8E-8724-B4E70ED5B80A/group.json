@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "607162F6-F251-4C8E-8724-B4E70ED5B80A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89B2C762-58F4-4D07-ABE9-830262ABFAFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAA5AD0D-8F01-4187-A9AF-7DAD3294472C",
+    "height": 141.4,
+    "width": 120.2,
+    "x": 0,
+    "y": 10.6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AD0C3EBB-3A03-4B6D-824D-34EA69AA76C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF5A0DDE-88CC-4682-A9D3-857F1678BB3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AEE6050D-10FA-4087-B8B1-0CF0438393BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "758621AF-7B2C-46F3-BFFF-60C4F78672FF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12BA36E4-0C9D-4CD5-ACF6-C373BE6EE2DB"
+    }
+  ],
+  "name": "Map 4 + Map 3 + Map 2 + Map Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6E67B30E-FF28-468E-A024-FFC90829D0DA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2,
+      "type": 0
+    },
+    "do_objectID": "E680F27A-D649-4821-A27C-6252EEA25A9E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "6E2B2B11-7172-495C-970A-72791F0D5BF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29F80C35-5D02-4ECC-8766-D2E848B7E0DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3559A969-32D5-4C4D-9210-FFD14738BF21",
+    "height": 72,
+    "width": 142,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "55719025-3D48-4F2D-AE2E-ABBB70CE2700"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AE8330F-D659-4414-BD1B-803E5463E21B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F77A413-47E5-45F9-A304-472EB5450C6A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A5B2C33-11A0-439A-8B64-5B339ECEA9F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F326AE0-192F-4C22-AC3A-A5724BE2E9A4"
+    }
+  ],
+  "name": "Dot to arrow Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "861B486E-DBA7-4F7F-AB10-CBA516B4B08E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1,
+      "type": 0
+    },
+    "do_objectID": "EBC84964-C9EF-49CD-BD78-8CDCF177F466",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

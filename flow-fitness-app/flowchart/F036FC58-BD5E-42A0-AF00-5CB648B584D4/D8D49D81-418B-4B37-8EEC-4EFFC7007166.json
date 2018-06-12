@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D8D49D81-418B-4B37-8EEC-4EFFC7007166",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D327C001-289B-4361-B0DF-1796E7F8E3A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F8C625A-EBE0-49C1-BAA9-28C5E81D88B2",
+    "height": 178,
+    "width": 121,
+    "x": 917,
+    "y": 250
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "590C4747-4517-44D0-9571-0CE48B89A9E6",
+      "overrideName": "138A2157-A940-4B5A-8FC4-CDF95B1062A2_stringValue",
+      "value": "Workout Tips"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D437CF3-F194-4FFE-A365-1ACDC2831E83",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2945A8D7-A0BA-4536-A648-D458B09D483B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "do_objectID": "AE92AD02-F396-47C2-B1D0-45360DDE8997",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40B8F882-878B-4AD7-AB35-43355642930D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15EB4DF6-080B-444A-8715-D27CC13558C7",
+    "height": 152,
+    "width": 121,
+    "x": 0,
+    "y": 25.9
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4861F2ED-D950-4426-8200-7C0D613F3E8D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1CD848F6-F8EF-46A7-9EDE-DE5A0C6E1D14"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5CE629B-CC89-4491-8AB3-776DD154C779"
+    },
+    {
+      "class": "group",
+      "id": "3398A9A3-B8C1-4F1C-B26E-8B905328CA46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25D3D0C4-3E3D-4A67-8FA7-D0A90B30ED72"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBBF390C-C2AF-48C8-BA07-5B72E0401ED4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF42815C-4B56-4068-8D42-0420F933EE6A"
+    },
+    {
+      "class": "group",
+      "id": "A358D845-BC57-47EE-9EE3-BB82BF3723AB"
+    },
+    {
+      "class": "group",
+      "id": "FE50C464-6340-4889-8F5C-880ADBA191BD"
+    }
+  ],
+  "name": "Body",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "50B6B4E9-6609-4539-82B6-666A575C60CE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1,
+      "type": 0
+    },
+    "do_objectID": "10D7A05C-A58E-4FBA-806D-ABB135CA01A7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.15,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

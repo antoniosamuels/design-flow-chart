@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DE81B40A-E2E0-4146-AD11-DEB08194844B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADF0D00B-FD0E-48CE-A513-C7C38122D52D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A85EC6CF-16E5-49DC-A6B6-CFB937CC76AF",
+    "height": 63,
+    "width": 281,
+    "x": 47,
+    "y": 48
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/sign-in",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8B39B2D-8034-4076-9EFD-1E5EB9F98080",
+      "overrideName": "907F204E-97B7-467A-BD85-6DAADE1D8E6F_stringValue",
+      "value": "Serach Zip Code"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB7E3639-6394-45AB-B50D-6C635D5C17CB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D9655847-1346-40A0-8A2A-76F4EA7C1D73",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9729485544217688,
+    "do_objectID": "DEAA2F26-9BCC-4A80-A50A-FA08D47891BE",
+    "green": 0.6228152964276186,
+    "red": 0.6228152964276186
+  },
+  "do_objectID": "9ED9EC24-67D8-4628-8878-1B6C5D5FFDD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8665BDEC-4B4C-4060-93C7-3CD02A6DF6E1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B37ACB04-F467-4001-ABA6-C653C779C236",
+    "height": 812,
+    "width": 375,
+    "x": 1862,
+    "y": -257
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "92FB2CF9-C6B1-49A0-A382-2FA3A7C154ED",
+    "guides": [
+      125,
+      250
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC468C99-CA95-4A06-817C-0D1315AC4F62"
+    },
+    {
+      "class": "bitmap",
+      "id": "F6809B2D-E240-4AE1-AC11-34136B6C2EAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1D9D331-9F03-4CDE-9076-EAF17428D80A"
+    },
+    {
+      "class": "group",
+      "id": "20315261-950E-47C8-B4E4-DFB25BF35070"
+    },
+    {
+      "class": "text",
+      "id": "E8B3B03C-4A22-43AC-A130-9B44CF43DF0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3BE5C1B-EA37-44A3-9D04-E8A354817D74"
+    },
+    {
+      "class": "group",
+      "id": "F91E42AF-4C2B-4A4D-8F78-1BF1947F630A"
+    },
+    {
+      "class": "group",
+      "id": "39541417-DB60-43F2-8CA4-C1F90E10A0C3"
+    },
+    {
+      "class": "text",
+      "id": "8C03992B-3F8A-4B5B-BA0E-E352F26FAB38"
+    }
+  ],
+  "name": "tab-bar/tips",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5DDB54A-377E-434B-A560-7E158DFAE8B1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "91B3D044-9349-46C0-A495-3FBF411EFF09",
+    "guides": [
+      29
+    ]
+  }
+}

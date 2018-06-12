@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "C020BFAF-E4A7-4199-8FB9-4ACC5CECE926",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB3D0DC0-2051-45E0-852C-03D583FC85AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E504E79E-E36C-4594-9F0D-6D129B878808",
+    "height": 6,
+    "width": 162,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89AFDA09-8BC4-404A-BDA3-C98735F3163C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7453EC00-F272-441C-AF82-81776A9B938D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "255010E4-4EF0-4E76-B073-F168E6CABC4C"
+    }
+  ],
+  "name": "Dot to arrow Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E5F8742A-8C77-4C00-83F1-805E8C0F2813",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1,
+      "type": 0
+    },
+    "do_objectID": "28F57FC9-0B6B-489F-997C-68E4E7D6BDE2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

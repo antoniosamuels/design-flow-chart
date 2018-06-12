@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "B841AC24-4B88-496A-B1BE-51463CC63F8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "558F2846-BA42-4736-AFEA-14D1B154CF72",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A2676A0-2885-4400-B52E-38F04C4B8A78",
+    "height": 5.800000000000001,
+    "width": 5.600000000000001,
+    "x": 82.60000000000002,
+    "y": 74
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B58D252B-A76E-44F1-A1D1-3CEE3A1E8999"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACD0397E-23AB-4E6F-BC31-C6111D5AE910"
+    }
+  ],
+  "name": "Assets/Cross",
+  "nameIsFixed": true,
+  "originalObjectID": "66F2BD27-81F8-499F-8709-E479C6C1478F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4D9D37A6-38CD-40EF-8405-00C2A05CBDB9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2,
+      "type": 0
+    },
+    "do_objectID": "567926F2-B77C-48D8-BD45-2F84844F33A7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

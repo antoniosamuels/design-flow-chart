@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "F8A80261-075A-4D0C-830B-9F4BED526361",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 335,
+    "x": 20,
+    "y": 376
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E36667EE-E439-4F2C-8CFD-A747F7CDF93B"
+    },
+    {
+      "class": "text",
+      "id": "B4309DA2-BB2D-4614-B490-1C9D460D21E1"
+    },
+    {
+      "class": "text",
+      "id": "DFE94F6F-EAF3-4D12-A84E-0100D95AA406"
+    },
+    {
+      "class": "text",
+      "id": "55DDCAF5-3B09-4716-AABE-CD182A2A4867"
+    },
+    {
+      "class": "text",
+      "id": "D8A9EA24-9C50-44BE-B11C-36E70C0E1F07"
+    }
+  ],
+  "name": "challenge/cards/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

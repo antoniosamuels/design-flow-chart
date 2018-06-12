@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0C695661-20CD-4B83-8B20-68216FB049A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5BB8865-D3C2-48A4-AF19-EDC3A2377F54",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57A08DB5-4411-4AF2-A23D-5EC3110518E5",
+    "height": 178,
+    "width": 121,
+    "x": 358,
+    "y": 578
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E00F5DD2-326F-42C8-82BB-42FE312F8B2B",
+      "overrideName": "866FE563-3E1E-4992-A64C-D7DB07DC9CEE_stringValue",
+      "value": "Sign-up member"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BA31100-EF46-4542-9120-8320192D4740",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8EE13779-4124-4E7F-8E65-71BCDBEADA3E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

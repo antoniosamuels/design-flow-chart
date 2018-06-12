@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "45DD48B6-E139-4A43-A801-D237091A698A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9FF5175-95E6-481D-9E6C-E77E0A0C0853",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B34DD8EA-9C6C-49FC-B3AB-041EF1B36ABD",
+    "height": 69,
+    "width": 98,
+    "x": 726,
+    "y": 703
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "features/list copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB7244CD-2526-4BDA-AA2A-F4C55601A99A",
+      "overrideName": "53A226A1-C475-44BB-8FC3-59D1BC91FFE0_stringValue",
+      "value": "Add gym membership"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A6A1FE7-D231-46A4-9E57-3E0E473EC04D",
+      "overrideName": "4B7CA673-CDE1-4385-B14E-CD47164F8805_stringValue",
+      "value": "Fill in membership"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E371ED78-26CA-49A0-9D8B-420A9315C39B",
+      "overrideName": "D3F623F0-ACEC-437B-802A-B9A7A681FFB3_stringValue",
+      "value": "Connect devices"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC8A0551-83A4-44E0-91E2-38F074CCB3AE",
+      "overrideName": "B0686D7A-960F-4ED8-84C0-A944254183F5_stringValue",
+      "value": "Link accounts"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94E07CA5-8A6C-4E19-9D09-50A1F3523874",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DEFFE462-1648-4D81-BBDC-0E6E17197712",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

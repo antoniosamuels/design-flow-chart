@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "F606839C-5D3A-4FF0-8654-B2A46B596292",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74BB326A-784D-44B4-AC32-D10FE81A035F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B57A206F-7D95-4094-BC3F-F863E84F8517",
+    "height": 35,
+    "width": 35,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D117D29B-D992-4918-9F0F-8175101B9C1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA9BEBF1-6409-4AC0-990E-37AD1CD6E005"
+    }
+  ],
+  "name": "icons/batch/castle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "841B9A61-38A8-45B1-B9EC-9EA3374F64E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

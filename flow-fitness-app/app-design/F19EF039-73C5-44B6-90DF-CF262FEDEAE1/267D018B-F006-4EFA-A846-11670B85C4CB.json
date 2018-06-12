@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "267D018B-F006-4EFA-A846-11670B85C4CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2BE65E66-917B-4519-9123-C8EA8191E82E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30FE421C-0516-4FE8-876D-BEACFCFB230E",
+    "height": 52,
+    "width": 391,
+    "x": -8,
+    "y": 762
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "footer/tab-bottom",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E535C58-4D28-4A09-9B2F-661AED049EBF",
+      "overrideName": "2E368ED3-D6D8-4F7E-B814-4E3B02C2F77C_stringValue",
+      "value": "Dash"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7C2F7CD-DB12-40D5-BB67-7069A9A308FE",
+      "overrideName": "ED2A14AF-28EA-4A28-A825-910CE3956618_stringValue",
+      "value": "Find"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2FC10B3A-382D-4867-A5A3-C9812ACAA588",
+      "overrideName": "6A9B89BD-7013-4596-BED6-A6C597F6BD4E_stringValue",
+      "value": "Awards"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D47F0A09-B79B-4582-B931-3140BA44B343",
+      "overrideName": "EE32E9B2-64FA-4709-AFFB-65103DD84A60_stringValue",
+      "value": "Alerts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D2BA294-ECD7-48DC-9DD2-511D496FD40D",
+      "overrideName": "4FB841E8-5F0C-4ED8-BD0E-B7AF21B9A48A_stringValue",
+      "value": "Tips"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20107775-616D-4542-A11B-E84A04ED6D26",
+      "overrideName": "54B2322A-B487-4415-9F4E-C5F93A620334_symbolID",
+      "value": "2F1DD215-7A81-4B7D-8C02-8CE8AB8A43C5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A6760BB-2364-4738-923A-D27AE835ABAB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BD1369D2-8096-4AF2-951D-90A9C8D78D67",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
