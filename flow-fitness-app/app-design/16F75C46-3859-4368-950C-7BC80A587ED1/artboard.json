@@ -41,7 +41,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AA5E7FCF-543F-4AFB-BA77-1B5F41FCD3D3",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 912,
     "y": -257
@@ -117,14 +117,18 @@
     {
       "class": "text",
       "id": "3B0E1C40-A7D4-4F6B-8482-8DCFCB691E60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE2AFB1F-C9A8-4F76-80A4-B81EA71A4078"
     }
   ],
   "name": "dashboard/challenges",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone X",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },

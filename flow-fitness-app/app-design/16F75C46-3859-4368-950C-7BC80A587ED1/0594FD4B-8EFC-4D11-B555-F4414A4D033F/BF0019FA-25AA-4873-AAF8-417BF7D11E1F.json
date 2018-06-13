@@ -9,8 +9,8 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7092102465986394,
-            "green": 0.5045655100206691,
+            "blue": 0.8755580357142857,
+            "green": 0.6229131473517564,
             "red": 0
           },
           "MSAttributedStringFontAttribute": {
@@ -53,7 +53,7 @@
     "height": 18,
     "width": 258,
     "x": 17,
-    "y": 11.82926829268293
+    "y": 12
   },
   "glyphBounds": "{{1, 3}, {122, 11}}",
   "isFlippedHorizontal": false,
@@ -69,7 +69,40 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "sharedObjectID": "E7A5C958-4C66-4BD4-AE81-D1EAB8E6AE8C"
+    "_class": "style",
+    "do_objectID": "F2DC2707-439F-484C-8509-97D914644997",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "E7A5C958-4C66-4BD4-AE81-D1EAB8E6AE8C",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8755580357142857,
+          "green": 0.6229131473517564,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AvenirNext-Medium",
+            "size": 13
+          }
+        },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    }
   },
   "textBehaviour": 1,
   "userInfo": {

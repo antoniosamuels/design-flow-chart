@@ -41,7 +41,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B37ACB04-F467-4001-ABA6-C653C779C236",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 1862,
     "y": -257
@@ -64,7 +64,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -101,14 +101,18 @@
     {
       "class": "text",
       "id": "8C03992B-3F8A-4B5B-BA0E-E352F26FAB38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1080FF96-75FF-4729-88EF-75235D070221"
     }
   ],
   "name": "tab-bar/tips",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone X",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },

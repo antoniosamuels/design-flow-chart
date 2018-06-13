@@ -41,7 +41,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2BDC8C5E-4CAF-4297-BA21-E45A88081C83",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 437,
     "y": -257
@@ -95,24 +95,12 @@
       "id": "023FB7CF-5F35-4C10-93C9-09996FECC29F"
     },
     {
-      "class": "group",
-      "id": "618138F5-9A0B-429C-9702-5BB44A7CB02A"
-    },
-    {
-      "class": "group",
-      "id": "AB4AA319-738C-4E97-97F9-1FDC8373F395"
-    },
-    {
-      "class": "group",
-      "id": "09702D71-47EF-4428-94BB-A1CCDE2F910D"
-    },
-    {
       "class": "bitmap",
       "id": "103A668C-7E75-45E9-BFF2-27F34F209F6A"
     },
     {
       "class": "group",
-      "id": "4F972735-29D9-426C-8B45-FEEC6C8888A0"
+      "id": "A313E4AE-5E71-419A-87EB-2DB97A3B1B99"
     },
     {
       "class": "symbolInstance",
@@ -125,14 +113,18 @@
     {
       "class": "shapeGroup",
       "id": "721A6A0D-BCAD-4DCE-BFB6-094EBE5A0DE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A3AC875-B3F3-44E0-8ABD-3766DDB3648C"
     }
   ],
   "name": "dashboard/profile",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone X",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },

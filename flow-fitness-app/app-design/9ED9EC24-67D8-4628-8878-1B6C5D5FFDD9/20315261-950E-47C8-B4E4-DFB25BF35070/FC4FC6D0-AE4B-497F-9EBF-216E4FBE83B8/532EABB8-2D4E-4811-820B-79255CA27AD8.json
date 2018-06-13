@@ -51,9 +51,9 @@
     "constrainProportions": false,
     "do_objectID": "C4DD24B9-1B6B-4438-955B-B62AE789CCE8",
     "height": 30,
-    "width": 120.33,
-    "x": 11.97,
-    "y": 28.35
+    "width": 120,
+    "x": 12,
+    "y": 28
   },
   "glyphBounds": "{{0, 2}, {112, 25}}",
   "isFlippedHorizontal": false,

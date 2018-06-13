@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8BF9B04B-CAF5-4A25-A87E-A8B15A632FA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D6511E5-BD41-4D60-9DA1-31FC44437B07",
+    "height": 104,
+    "width": 335,
+    "x": 0,
+    "y": 116
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cards/map/default copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D02F28FD-F024-4AD1-938E-3B606627AC3C",
+      "overrideName": "4B2CF175-3AD5-4D06-AE53-53DD2BEDD0EB_stringValue",
+      "value": "843 POLO RD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C31D9FD3-48A8-4A6B-8948-A21977477B53",
+      "overrideName": "C6661F71-D191-43CF-96B8-C9EA5347FF38_stringValue",
+      "value": "Snap Fitness"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "049F1D63-EFCC-4F69-9A3A-B953D6C6AB34",
+      "overrideName": "08514DDF-DAC7-4024-8605-DD38A1A15139_stringValue",
+      "value": "4.6 miles"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADBF47EF-7452-4286-8864-9DFE68722C9B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "56ABEC3C-728A-4FF5-806C-714268424FD4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

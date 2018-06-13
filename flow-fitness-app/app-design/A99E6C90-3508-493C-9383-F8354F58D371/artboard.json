@@ -38,7 +38,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": -38,
     "y": -257
@@ -91,14 +91,18 @@
     {
       "class": "text",
       "id": "B4B81B46-611B-4843-928E-CBC182E30585"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7428746B-093A-4F92-A2C5-32B2E0CEE421"
     }
   ],
   "name": "landingpage/launch",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone X",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },
