@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Batch Earned"
+    "string": "Badges Earned"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7C9AFAFB-8829-489E-B324-EE432FFA21A6",
@@ -50,18 +50,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 80,
+    "width": 92,
     "x": 17,
     "y": 122
   },
-  "glyphBounds": "{{1, 3}, {78, 11}}",
+  "glyphBounds": "{{1, 3}, {90, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Batch Earned",
+  "name": "Badges Earned",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
